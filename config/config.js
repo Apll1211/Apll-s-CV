@@ -74,7 +74,7 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/pro-1.png", "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/pro-1.png", "一个自用的Arch Linux", "U盘装载,仅有图片展示"],
+        ["https://pic.imgdb.cn/item/66f10cecf21886ccc080e4b8.jpg", "https://pic.imgdb.cn/item/66f10cecf21886ccc080e4b8.jpg", "一个自用的Arch Linux", "U盘装载,仅作图片展示"],
     ],
 
     /**
