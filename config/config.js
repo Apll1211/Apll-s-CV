@@ -128,10 +128,10 @@ var config = {
     //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
         //背景图、头像、作品展示背景、其他经历背景
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/intro-bg.jpg",
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/2.jpg",
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/work-bk.png",
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/4.jpg"
+        "https://pic.imgdb.cn/item/66f10ca2f21886ccc0808e79.jpg",
+        "https://pic.imgdb.cn/item/66f10c88f21886ccc0806dec.jpg",
+        "https://pic.imgdb.cn/item/66f10cbff21886ccc080afa0.png",
+        "https://pic.imgdb.cn/item/66f10cd1f21886ccc080c3d4.jpg"
     ]
 
 }
