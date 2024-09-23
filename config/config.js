@@ -120,8 +120,8 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV/svg/github.svg", "https://github.com/Apll1211", "我的GitHub主页"],
-        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV/svg/博客.svg", "https://apll.blog", "我的个人博客(开发中(境内访问受限)...)"],
+        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/svg/github.svg", "https://github.com/Apll1211", "我的GitHub主页"],
+        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/svg/博客.svg", "https://apll.blog", "我的个人博客(开发中(境内访问受限)...)"],
     ],
 
 
