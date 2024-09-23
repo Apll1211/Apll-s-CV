@@ -7,7 +7,7 @@ var config = {
     email: "490135438@163.com",
     address: "辽宁省大连市",
     qq: "490135438",
-    log: "Happysnaker",
+    log: "Apll",
     excpect_work: "前/后端开发",
 
 
