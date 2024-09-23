@@ -120,8 +120,8 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["./svg/github.svg", "https://github.com/Apll1211", "我的GitHub主页"],
-        ["./svg/博客.svg", "https://apll.blog", "我的个人博客(开发中(境内访问受限)...)"],
+        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV/svg/github.svg", "https://github.com/Apll1211", "我的GitHub主页"],
+        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV/svg/博客.svg", "https://apll.blog", "我的个人博客(开发中(境内访问受限)...)"],
     ],
 
 
@@ -129,7 +129,7 @@ var config = {
     url: [
         //背景图、头像、作品展示背景、其他经历背景
         "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/intro-bg.jpg",
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/2.jpg",
+        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/2.png",
         "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/work-bk.png",
         "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/4.jpg"
     ]
