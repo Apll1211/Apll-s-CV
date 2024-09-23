@@ -129,7 +129,7 @@ var config = {
     url: [
         //背景图、头像、作品展示背景、其他经历背景
         "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/intro-bg.jpg",
-        "https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/images/2.jpg",
+        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/2.jpg",
         "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/work-bk.png",
         "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/4.jpg"
     ]
