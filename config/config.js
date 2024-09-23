@@ -74,7 +74,7 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/pro-1.png", "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/pro-1.png", "一个自用的Arch Linux", "U盘装载,仅有图片展示"],
+        ["https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/images/pro-1.png", "https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/images/pro-1.png", "一个自用的Arch Linux", "U盘装载,仅有图片展示"],
     ],
 
     /**
@@ -120,18 +120,18 @@ var config = {
      * 建议您放置数量 <= 5
      */
     icon: [
-        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/svg/github.svg", "https://github.com/Apll1211", "我的GitHub主页"],
-        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/svg/博客.svg", "https://apll.blog", "我的个人博客(开发中(境内访问受限)...)"],
+        ["https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/svg/github.svg", "https://github.com/Apll1211", "我的GitHub主页"],
+        ["https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/博客.svg", "https://apll.blog", "我的个人博客(开发中(境内访问受限)...)"],
     ],
 
 
     //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
         //背景图、头像、作品展示背景、其他经历背景
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/intro-bg.jpg",
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/2.jpg",
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/work-bk.png",
-        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/4.jpg"
+        "https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/images/intro-bg.jpg",
+        "https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/images/2.jpg",
+        "https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/images/work-bk.png",
+        "https://ghp.ci/https://raw.githubusercontent.com/Apll1211/Apll-s-CV/main/images/4.jpg"
     ]
 
 }
