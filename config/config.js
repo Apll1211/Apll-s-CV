@@ -74,7 +74,7 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["./images/pro-1.png", "./images/pro-1.png", "一个自用的Arch Linux", "U盘装载,仅有图片展示"],
+        ["https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/pro-1.png", "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/pro-1.png", "一个自用的Arch Linux", "U盘装载,仅有图片展示"],
     ],
 
     /**
@@ -128,10 +128,10 @@ var config = {
     //这是一些图片链接，建议您仅更改第二个头像图片
     url: [
         //背景图、头像、作品展示背景、其他经历背景
-        "./images/intro-bg.jpg",
-        "./images/2.jpg",
-        "./images/work-bk.png",
-        "./images/4.jpg"
+        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/intro-bg.jpg",
+        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/2.jpg",
+        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/work-bk.png",
+        "https://cdn.jsdelivr.net/gh/Apll1211/Apll-s-CV@master/images/4.jpg"
     ]
 
 }
