@@ -8,7 +8,7 @@ var config = {
     address: "辽宁省大连市",
     qq: "490135438",
     log: "Apll",
-    excpect_work: "前/后端开发",
+    excpect_work: "IT/互联网",
 
 
     /*在这里配置首页的座右铭集合*/
@@ -62,7 +62,7 @@ var config = {
         "     <li>了解JVM原理。</li>" +
         "     <li>熟悉SQL语句编写。</li>" +
         "     <li>熟悉Linux文件结构与命令操作。</li>" +
-        "     <li>知晓Spring、ibatis、struts等框架的使用，了解其原理与机制。</li>" +
+        "     <li>了解Spring、ibatis、struts等框架的使用，了解其原理与机制。</li>" +
         "     <li>熟悉HTML、CSS、JavaScript以及相应前端知识。</li>" +
         " </ul>",
 
